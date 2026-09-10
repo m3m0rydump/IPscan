@@ -46,7 +46,7 @@ python3 main.py
 
 
 
-
+## ⚠️ Disclaimer
 > This tool is intended for **educational purposes only** and for testing
 > **your own** resources. Using it against third-party systems without permission
 > may violate the law.
