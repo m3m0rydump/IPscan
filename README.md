@@ -33,15 +33,15 @@ git clone https://github.com/w4ghs/w4ghsIPscan.git
 cd w4ghsIPscan
 
 # 2. Install dependencies
-pip install requests
+pip3 install requests
 ```
 
 ---
 
-## 🎮 Usage
+## >_ Usage
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 
