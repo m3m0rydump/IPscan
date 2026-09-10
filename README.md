@@ -1,4 +1,4 @@
-# w4ghsIPscan
+# w4ghsIPscan v1
 
 > Advanced IP address scanner: WHOIS, port scanning, leak detection, reverse IP lookup, and availability check using Check-Host.
 
