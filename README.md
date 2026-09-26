@@ -29,7 +29,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/w4ghs/w4ghsIPscan.git
+git clone https://github.com/m3m0rydump/w4ghsIPscan.git
 cd w4ghsIPscan
 
 # 2. Install dependencies
