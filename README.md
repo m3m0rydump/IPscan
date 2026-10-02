@@ -1,4 +1,4 @@
-# w4ghsIPscan v1
+# IPscan v1
 
 > Advanced IP address scanner: WHOIS, port scanning, leak detection, reverse IP lookup, and availability check using Check-Host.
 
@@ -29,8 +29,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/m3m0rydump/w4ghsIPscan.git
-cd w4ghsIPscan
+git clone https://github.com/m3m0rydump/IPscan.git
+cd IPscan
 
 # 2. Install dependencies
 pip3 install requests
